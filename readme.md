@@ -1,4 +1,4 @@
-# Dice roll game
+# Roll to 100
 
 ## How we roll
 
